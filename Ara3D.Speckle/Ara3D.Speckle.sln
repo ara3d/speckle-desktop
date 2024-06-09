@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ara3D.Speckle.Wpf", "Ara3D.Speckle.Wpf\Ara3D.Speckle.Wpf.csproj", "{C06F541E-27FA-4F01-8633-507001126D44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{93EEC1CC-607D-44A9-AC19-BE401E2D6605}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\.gitmodules = ..\.gitmodules
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xbim.Presentation", "..\XbimWindowsUI-Ara3D\Xbim.Presentation\Xbim.Presentation.csproj", "{566049E9-07AD-4071-AC1F-BE76F2A24F99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XbimXplorer", "..\XbimWindowsUI-Ara3D\XbimXplorer\XbimXplorer.csproj", "{1E55C349-9EE9-4324-A62E-F10B2BFBE6E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ara3D.Speckle.Data", "Ara3D.Speckle.Data\Ara3D.Speckle.Data.csproj", "{100DF06D-F1C8-46BD-A721-2790B59E0ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ara3D.Speckle.Console", "Ara3D.Speckle.Console\Ara3D.Speckle.Console.csproj", "{99A17AA2-B985-4F3E-95B3-D2F92ACD72C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C06F541E-27FA-4F01-8633-507001126D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06F541E-27FA-4F01-8633-507001126D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06F541E-27FA-4F01-8633-507001126D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06F541E-27FA-4F01-8633-507001126D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566049E9-07AD-4071-AC1F-BE76F2A24F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566049E9-07AD-4071-AC1F-BE76F2A24F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566049E9-07AD-4071-AC1F-BE76F2A24F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566049E9-07AD-4071-AC1F-BE76F2A24F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E55C349-9EE9-4324-A62E-F10B2BFBE6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E55C349-9EE9-4324-A62E-F10B2BFBE6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E55C349-9EE9-4324-A62E-F10B2BFBE6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E55C349-9EE9-4324-A62E-F10B2BFBE6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100DF06D-F1C8-46BD-A721-2790B59E0ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100DF06D-F1C8-46BD-A721-2790B59E0ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100DF06D-F1C8-46BD-A721-2790B59E0ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100DF06D-F1C8-46BD-A721-2790B59E0ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A17AA2-B985-4F3E-95B3-D2F92ACD72C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A17AA2-B985-4F3E-95B3-D2F92ACD72C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A17AA2-B985-4F3E-95B3-D2F92ACD72C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A17AA2-B985-4F3E-95B3-D2F92ACD72C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4E9B43E-6AFE-4D67-8265-0AD7F8EDC74E}
+	EndGlobalSection
+EndGlobal
