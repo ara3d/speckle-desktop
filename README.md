@@ -2,6 +2,8 @@
 
 Speckle Desktop is an open-source viewer for the [Speckle 3D platform](https://speckle.systems). 
 
+![image](https://github.com/ara3d/speckle-desktop/assets/1759994/e4ef038a-2b71-4187-b4f6-2753d4a7f988)
+
 # About the Project 
 
 This is my entry into the June 2024 Speckle Hackathon [*Beyond the Speckleverse*](https://beyond-the-speckleverse.devpost.com/).
