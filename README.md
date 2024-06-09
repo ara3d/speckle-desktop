@@ -1,6 +1,6 @@
 # Speckle Desktop
 
-Speckle Desktop is an open-source viewer for the [Speckle 3D platform]. 
+Speckle Desktop is an open-source viewer for the [Speckle 3D platform](https://speckle.systems). 
 
 # About the Project 
 
